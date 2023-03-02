@@ -46,4 +46,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodhan2&show_icons=true)  
 
 <button type="button">Click Me!</button>
-
+<marquee bgcolor="orange" direction="left" loop="infinite" width="100%"><font size="4"><font color="black"><b>হে মুমিন গন ! তোমরা ধৈর্য ও নামাযের মাধ্যমে সাহায্য প্রার্থনা কর । নিশ্চিতই আল্লাহ্‌ ধৈর্যশীলদের সাথেই রয়েছেন ।
+যারা আল্লাহ্‌র কিতাব পাঠ করে, নামায কায়েম করে, এবং আমি যা দিয়েছি তা থেকে গোপনে ও প্রকাশ্যে ব্যয় করে, তারা এমন ব্যবসা আশা কর, যাতে কখনও লোকসান হবে না
+ধৈর্যের সাথে সাহায্য প্রার্থনা কর নামাযের মাধ্যমে । অবশ্য তা যথেষ্ট কঠিন । কিন্তু সে সমস্ত বিনয়ী লোকদের পক্ষেই তা সম্ভব । ।</b></font></font size></marquee>
