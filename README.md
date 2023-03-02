@@ -44,3 +44,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodhan2&show_icons=true&locale=en&layout=compact" alt="prodhan2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&" alt="prodhan2" /></p>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=prodhan2)  
