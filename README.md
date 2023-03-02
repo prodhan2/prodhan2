@@ -42,7 +42,3 @@
 <p><a href="https://www.buymeacoffee.com/sujanp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sujanp" /></a><a href="https://ko-fi.com/sujanProdhan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sujanProdhan" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodhan2&show_icons=true&locale=en&layout=compact" alt="prodhan2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&" alt="prodhan2" /></p>
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=prodhan2)  
