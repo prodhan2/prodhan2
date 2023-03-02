@@ -45,34 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodhan2&show_icons=true&locale=en&layout=compact" alt="prodhan2" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodhan2&show_icons=true)  
-<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/flicker.gif?raw=true" align = "right" height = "300px">
-
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 35,
-      color: Colors.white,
-      shadows: [
-        Shadow(
-          blurRadius: 7.0,
-          color: Colors.white,
-          offset: Offset(0, 0),
-        ),
-      ],
-    ),
-    child: AnimatedTextKit(
-      repeatForever: true,
-      animatedTexts: [
-        FlickerAnimatedText('Flicker Frenzy'),
-        FlickerAnimatedText('Night Vibes On'),
-        FlickerAnimatedText("C'est La Vie !"),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
