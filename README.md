@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Admission Light**
 
-- 🌱 I’m currently learning **Adobe XD, Programming Languages**
+- 🌱 I’m currently learning **<code style="color : oragne">Adobe XD, Programming Languages</code>**
 
 - 👨‍💻 All of my projects are available at [github.com/prodhan2](github.com/prodhan2)
 
