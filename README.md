@@ -1,25 +1,4 @@
-```dart
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 30.0,
-      fontFamily: 'Bobbers',
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        TyperAnimatedText('It is not enough to do your best,'),
-        TyperAnimatedText('you must know what to do,'),
-        TyperAnimatedText('and then do your best'),
-        TyperAnimatedText('- W.Edwards Deming'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
-```
+
 <h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">$${\color{red}Hi \space \color{lightblue} I'm  \space \color{lightgreen}MD.Sujan Prodhan}$$ </h1>
 <h3 align="center">A web and application developer from Bangladesh</h3>
 
@@ -66,4 +45,34 @@ return SizedBox(
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prodhan2&show_icons=true&locale=en&layout=compact" alt="prodhan2" /></p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prodhan2&show_icons=true)  
+<img src="https://github.com/aagarwal1012/Animated-Text-Kit/blob/master/display/flicker.gif?raw=true" align = "right" height = "300px">
 
+```dart
+return SizedBox(
+  width: 250.0,
+  child: DefaultTextStyle(
+    style: const TextStyle(
+      fontSize: 35,
+      color: Colors.white,
+      shadows: [
+        Shadow(
+          blurRadius: 7.0,
+          color: Colors.white,
+          offset: Offset(0, 0),
+        ),
+      ],
+    ),
+    child: AnimatedTextKit(
+      repeatForever: true,
+      animatedTexts: [
+        FlickerAnimatedText('Flicker Frenzy'),
+        FlickerAnimatedText('Night Vibes On'),
+        FlickerAnimatedText("C'est La Vie !"),
+      ],
+      onTap: () {
+        print("Tap Event");
+      },
+    ),
+  ),
+);
+```
