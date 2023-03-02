@@ -1,9 +1,4 @@
-<h1 align="center">Hi <script src="https://cdn.lordicon.com/ritcuqlt.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/kxrhwtdg.json"
-    trigger="hover"
-    style="width:250px;height:250px">
-</lord-icon>, I'm MD.Sujan Prodhan</h1>
+<h1 align="center">Hi <img src="https://lordicon.com/9974b2c2-694d-47f4-9857-d2d511a667b2" alt="prodhan2" />, I'm MD.Sujan Prodhan</h1>
 <h3 align="center">A web and application developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodhan2&label=Profile%20views&color=0e75b6&style=flat" alt="prodhan2" /> </p>
