@@ -1,3 +1,25 @@
+```dart
+return SizedBox(
+  width: 250.0,
+  child: DefaultTextStyle(
+    style: const TextStyle(
+      fontSize: 30.0,
+      fontFamily: 'Bobbers',
+    ),
+    child: AnimatedTextKit(
+      animatedTexts: [
+        TyperAnimatedText('It is not enough to do your best,'),
+        TyperAnimatedText('you must know what to do,'),
+        TyperAnimatedText('and then do your best'),
+        TyperAnimatedText('- W.Edwards Deming'),
+      ],
+      onTap: () {
+        print("Tap Event");
+      },
+    ),
+  ),
+);
+```
 <h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">$${\color{red}Hi \space \color{lightblue} I'm  \space \color{lightgreen}MD.Sujan Prodhan}$$ </h1>
 <h3 align="center">A web and application developer from Bangladesh</h3>
 
