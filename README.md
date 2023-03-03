@@ -45,5 +45,5 @@
  ![prodhan2's Stats](https://github-readme-stats.vercel.app/api?username=prodhan2&theme=radical&show_icons=true&hide_border=false&count_private=true)![prodhan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodhan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ![prodhan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&theme=radical&hide_border=false)
 
-<h3 align="center"><img src="https://github.com/prodhan2/prodhan2/blob/main/morphi.gif" width="180" height="200" alt="Languages and Tools:" /><img src="https://github.com/prodhan2/prodhan2/blob/main/cobutor.gif" width="180" height="200" alt="Languages and Tools:" /></h3>
+<h3 align="center"><img src="https://github.com/prodhan2/prodhan2/blob/main/cobutor.gif" width="180" height="200" alt="Languages and Tools:" /><img src="https://github.com/prodhan2/prodhan2/blob/main/morphi.gif" width="180" height="200" alt="Languages and Tools:" /></h3>
 >
