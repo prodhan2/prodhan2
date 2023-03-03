@@ -1,8 +1,6 @@
 
 <h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">
-
-
-<h1 align="right"><img src="https://github.com/prodhan2/prodhan2/blob/main/text.gif" alt="sujan prodhan" >
+<img src="https://github.com/prodhan2/prodhan2/blob/main/text.gif" alt="sujan prodhan" >  </h1>
 
 
 $${\color{red}Hi \space \color{lightblue} I'm  \space \color{lightgreen}MD.Sujan Prodhan}$$ </h1>
