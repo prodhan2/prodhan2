@@ -46,3 +46,4 @@
 ![prodhan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&theme=radical&hide_border=false)
 
 <h3 align="center"><img src="https://github.com/prodhan2/prodhan2/blob/main/morphi.gif" width="180" height="200" alt="Languages and Tools:" /></h3>
+<h3 align="center"><img src="https://github.com/prodhan2/prodhan2/blob/main/morphi.gif" width="180" height="200" alt="Languages and Tools:" /></h3>
