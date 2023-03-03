@@ -1,5 +1,11 @@
 
-<h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">$${\color{red}Hi \space \color{lightblue} I'm  \space \color{lightgreen}MD.Sujan Prodhan}$$ </h1>
+<h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">
+
+
+<h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/text.gif" alt="sujan prodhan" width="120" height="50">
+
+
+$${\color{red}Hi \space \color{lightblue} I'm  \space \color{lightgreen}MD.Sujan Prodhan}$$ </h1>
 <h3 align="center">A web and application developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prodhan2&label=Profile%20views&color=0e75b6&style=flat" alt="prodhan2" /> </p>
