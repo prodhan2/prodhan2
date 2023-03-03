@@ -44,7 +44,6 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sujanp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sujanp" /></a><a href="https://ko-fi.com/sujanProdhan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="sujanProdhan" /></a></p><br><br>
-<h3 align="left">![prodhan2's Stats](https://github-readme-stats.vercel.app/api?username=prodhan2&theme=radical&show_icons=true&hide_border=false&count_private=true)
+[prodhan2's Stats](https://github-readme-stats.vercel.app/api?username=prodhan2&theme=radical&show_icons=true&hide_border=false&count_private=true)
 ![prodhan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&theme=radical&hide_border=false)
 ![prodhan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodhan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
- </h3>
