@@ -47,4 +47,4 @@
 
 <h3 align="center"><img src="https://github.com/prodhan2/prodhan2/blob/main/cobutor.gif" width="180" height="200" alt="Languages and Tools:" /><img src="https://github.com/prodhan2/prodhan2/blob/main/morphi.gif" width="180" height="200" alt="Languages and Tools:" /></h3>
 
-<h1 align="left"><img src="https://j.gifs.com/yEGl9X.gif" alt="sujan prodhan" width="100" height="90">
+<h1 align="left"><img src="https://j.gifs.com/yEGl9X.gif" alt="sujan prodhan" width="600" height="90">
