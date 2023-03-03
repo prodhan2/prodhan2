@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I Think I am +Funny😁**
 
-<h3 align="center"> <img src="https://images.cooltext.com/5646638.png" width="900" height="80" alt="Connect with me:" /></h3>
+<h3 align="center"> <img src="https://images.cooltext.com/5646638.png" width="800" height="80" alt="Connect with me:" /></h3>
 <p align="left">
 <a href="https://dev.to/sujan prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sujan prodhan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujan prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan prodhan" height="30" width="40" /></a>
