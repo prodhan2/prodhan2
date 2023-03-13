@@ -37,7 +37,7 @@
 <a href="https://codeforces.com/profile/mr.microsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.microsoft" height="30" width="40" /></a>
 <a href="https://leetcode.com/user9107c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujan prodhan" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@ru.cse29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sujan prodhan" height="30" width="40" /></a>
- <a href="https://www.spoj.com/sujan_prodhan/" target="blank"><img align="center" src="https://stx1.spoj.com/gfx/2015e.png" alt="sujan prodhan" height="30" width="40" /></a>
+ <a href="https://www.spoj.com/sujan_prodhan/" target="blank"><img align="center" src="https://stx1.spoj.com/gfx/2015e.png" alt="sujan prodhan" height="80" width="90" /></a>
 </p>
 
 <h3 align="center"><img src="https://images.cooltext.com/5646641.png" width="400" height="75" alt="Languages and Tools:" /></h3>
