@@ -23,6 +23,30 @@
 - 📄 Know about my experiences [github.com/prodhan2/resume](github.com/prodhan2/resume)
 
 - ⚡ Fun fact **I Think I am +Funny😁**
+<h2>MY Information</h2>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>University</th>
+    <th>Department</th>
+    <th>College</th>
+    <th>Phone Number</th>
+    <th>Social ID</th>
+    <th>Website</th>
+    <th>Email</th>
+  </tr>
+  <tr>
+    <td>Sujan Prodhan</td>
+    <td>Rajshahi University</td>
+    <td>CSE (29)</td>
+    <td>Dinajpur Govt. City College</td>
+    <td><a href="tel:+1234567890">Call Me</a></td>
+    <td><a href="https://facebook.com/prodhan24">facebook</a></td>
+    <td><a href="https://prodhan2.blogspot.com">Admission Light</a></td>
+    <td><a href="mailto:ru.cse29@gmail.com">Mail me</a></td>
+  </tr>
+</table>
 
 <h3 align="center"> <img src="https://images.cooltext.com/5646638.png" width="500" height="75" alt="Connect with me:" /></h3>
 <p align="left">
