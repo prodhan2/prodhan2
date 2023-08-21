@@ -69,6 +69,5 @@
  ![prodhan2's Stats](https://github-readme-stats.vercel.app/api?username=prodhan2&theme=radical&show_icons=true&hide_border=false&count_private=true)![prodhan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodhan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
 ![prodhan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&theme=radical&hide_border=false)
 
-<h3 align="center"> <img src="https://github.com/prodhan2/Department-of-CSE-RU/blob/main/20230821_120936.gif" alt="Languages and Tools:" /><img src="https://www.google.com/logos/doodles/2023/kamn-ismail-s-67th-birthday-6753651837109843-2xa.gif" width="300" height="200" alt="Languages and Tools:" /></h3>
-
+<h3 align="center"> <img src="https://github.com/prodhan2/Department-of-CSE-RU/blob/main/20230821_120936.gif" alt="Languages and Tools:" />
 <h1 align="left"><img src="https://j.gifs.com/yEGl9X.gif" alt="sujan prodhan" width="1400" height="90">
