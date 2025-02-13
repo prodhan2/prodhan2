@@ -1,12 +1,3 @@
-
-<h1 align="left"><img src="https://github.com/prodhan2/prodhan2/blob/main/680-it-developer-gradient.gif" alt="sujan prodhan" width="80" height="90">
-<img src="https://github.com/prodhan2/prodhan2/blob/main/text.gif" alt="sujan prodhan" >  </h1>
-
-
-<h3 align="center"> <img src="https://github.com/prodhan2/prodhan2/blob/main/web%20and%20application%20developer.gif" alt="sujan prodhan" ></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prodhan2&label=Profile%20views&color=0e75b6&style=flat" alt="prodhan2" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=prodhan2)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on **Admission Light**
 
