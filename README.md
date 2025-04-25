@@ -1,19 +1,32 @@
+<table>
+  <tr>
+    <td>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=prodhan2)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on **Admission Light**
 
-- 🌱 I’m currently learning **<code style="color : red">Adobe XD, Programming Languages</code>**
+- 🌱 I’m currently learning <code style="color : red">Adobe XD, Programming Languages</code>
 
-- 👨‍💻 All of my projects are available at [github.com/prodhan2](github.com/prodhan2)
+- 👨‍💻 All of my projects are available at [github.com/prodhan2](https://github.com/prodhan2)
 
-- 📝 I regularly write articles on [prodhan2.blogspot.com](prodhan2.blogspot.com)
+- 📝 I regularly write articles on [prodhan2.blogspot.com](https://prodhan2.blogspot.com)
 
-- 💬 Ask me about **fb.com/prodhan24**
+- 💬 Ask me about **[fb.com/prodhan24](https://fb.com/prodhan24)**
 
-- 📫 How to reach me **ru.cse29@gmail.com**
+- 📫 How to reach me: **ru.cse29@gmail.com**
 
-- 📄 Know about my experiences [github.com/prodhan2/resume](github.com/prodhan2/resume)
+- 📄 Know about my experiences: [github.com/prodhan2/resume](https://github.com/prodhan2/resume)
 
-- ⚡ Fun fact **I Think I am +Funny😁**
+- ⚡ Fun fact: **I Think I am +Funny 😁**
+
+</td>
+<td>
+  <img src="https://i.postimg.cc/rF5PjKrv/giphy.gif" width="200"/>
+</td>
+</tr>
+</table>
+
 <h2>MY Information</h2>
 
 <table>
