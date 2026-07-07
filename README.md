@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6366f1,100:ec4899&height=200&section=header&text=Sujan%20Prodhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Engineer&descSize=18&descAlignY=55" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:6366f1,100:ec4899&height=200&section=header&text=Sujan%20Prodhan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20Flutter%20Developer&descSize=18&descAlignY=55" alt="header"/>
 
 <div align="center">
 
@@ -6,11 +6,11 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/sujan-prodhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26" alt="LinkedIn"/></a>&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2" height="26" alt="LinkedIn"/>&nbsp;
 <a href="mailto:prodhan238@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="26" alt="Email"/></a>&nbsp;
-<a href="https://drive.google.com/file/d/your-resume-link"><img src="https://img.shields.io/badge/Resume-10B981?style=flat-square&logo=readdotcv&logoColor=white&labelColor=10B981" height="26" alt="Resume"/></a>&nbsp;
-<a href="https://kaggle.com/prodhan2"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF" height="26" alt="Kaggle"/></a>&nbsp;
-<a href="https://www.leetcode.com/prodhan2"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116" height="26" alt="LeetCode"/></a>
+<img src="https://img.shields.io/badge/Resume-10B981?style=flat-square&logo=readdotcv&logoColor=white&labelColor=10B981" height="26" alt="Resume"/>&nbsp;
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=20BEFF" height="26" alt="Kaggle"/>&nbsp;
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116" height="26" alt="LeetCode"/>
 
 </div>
 
@@ -18,22 +18,20 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
-<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation"/>
+<img align="right" width="340" src="https://camo.githubusercontent.com/8c7fb4b39629406e4c96d745075f9162fdbfcc57d59affd85c87848b1ab96ed9/68747470733a2f2f692e706f7374696d672e63632f724635506a4b72762f67697068792e676966"/>
 
-**Full-Stack Developer** at **[RemoteIntegrity](https://remoteintegrity.com)** 🇺🇸 *(Clearwater, FL — Remote)*, crafting scalable products with **NestJS, Next.js & the MERN stack**.
+I started my career as a **Flutter Developer** building cross-platform mobile applications with Firebase — so I bring a mobile-first approach to full-stack architecture.
 
-I started my career as an **AI Engineer** shipping production computer-vision systems and LLM agents — so I bring an ML engineer's rigor to full-stack architecture.
-
-- 🛒 Building an e-commerce **Vitamin Shop + CRM** for a Netherlands-based company — NestJS + Next.js
-- 🧠 **Computer Vision & RAG expert** — face recognition, multi-object tracking, LLM agents
-- 🎓 B.Sc. CSE, University of Rajshahi — CGPA 3.69/4.00
+- 💼 Currently working at **Butterfly Devs** — building innovative mobile solutions
+- 📱 **Flutter & Firebase expert** — cross-platform apps, real-time databases, cloud functions
+- 🎓 B.Sc. CSE, University of Rajshahi
 - 📫 [prodhan238@gmail.com](mailto:prodhan238@gmail.com)
 
 <br clear="right"/>
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=400&color=22C55E&vCenter=true&multiline=true&repeat=true&width=700&height=230&lines=prodhan%40remoteintegrity%3A~%24+whoami;%3E+Full-Stack+Developer+%40+RemoteIntegrity+(Clearwater%2C+FL%2C+USA);prodhan%40remoteintegrity%3A~%24+cat+current_project.txt;%3E+Vitamin+Shop+%2B+CRM+for+a+Netherlands+company+%E2%80%94+NestJS+%2B+Next.js;prodhan%40remoteintegrity%3A~%24+cat+stack.txt;%3E+TypeScript+%C2%B7+MERN+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL+%C2%B7+REST+APIs;prodhan%40remoteintegrity%3A~%24+cat+past_life.txt;%3E+AI+Engineer+%E2%80%94+Computer+Vision+%26+RAG+expert)](https://git.io/typing-svg)
+[![Terminal](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=400&color=22C55E&vCenter=true&multiline=true&repeat=true&width=700&height=230&lines=prodhan%40remoteintegrity%3A~%24+whoami;%3E+Full-Stack+Developer+%40+RemoteIntegrity+(Clearwater%2C+FL%2C+USA);prodhan%40remoteintegrity%3A~%24+cat+current_project.txt;%3E+Vitamin+Shop+%2B+CRM+for+a+Netherlands+company+%E2%80%94+NestJS+%2B+Next.js;prodhan%40remoteintegrity%3A~%24+cat+stack.txt;%3E+TypeScript+%C2%B7+MERN+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+Flutter+%C2%B7+Firebase;prodhan%40remoteintegrity%3A~%24+cat+past_life.txt;%3E+Flutter+Developer+%E2%80%94+Cross-platform+mobile+apps+expert)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,18 +62,18 @@ I started my career as an **AI Engineer** shipping production computer-vision sy
 <table>
 <tr>
 <td>🟢</td>
-<td><b>Full-Stack Developer (MERN)</b><br/><sub>RemoteIntegrity · Clearwater, FL, USA · Remote</sub></td>
-<td align="right"><code>Jun 2026 — Present</code></td>
+<td><b>Flutter Developer</b><br/><sub>Butterfly Devs · Remote</sub></td>
+<td align="right"><code>Present</code></td>
 </tr>
 <tr>
 <td>🔵</td>
-<td><b>Jr. AI Engineer</b><br/><sub>Deep Mind Labs Ltd. · Dhaka, Bangladesh</sub></td>
-<td align="right"><code>Dec 2025 — Jun 2026</code></td>
+<td><b>React Developer</b><br/><sub>Freelance · Remote</sub></td>
+<td align="right"><code>2025 — 2026</code></td>
 </tr>
 <tr>
 <td>🔵</td>
-<td><b>AI Researcher Intern</b><br/><sub>Deep Mind Labs Ltd. · Dhaka, Bangladesh</sub></td>
-<td align="right"><code>Nov 2025 — Dec 2025</code></td>
+<td><b>Django Backend Developer</b><br/><sub>Freelance · Remote</sub></td>
+<td align="right"><code>2024 — 2025</code></td>
 </tr>
 </table>
 
@@ -87,72 +85,78 @@ I started my career as an **AI Engineer** shipping production computer-vision sy
 <tr>
 <td width="50%" valign="top">
 
-<h4>🛒 Vitamin Shop + CRM <sub><code>current</code></sub></h4>
+<h4>🌍 Beautiful Dinajpur <sub><code>featured</code></sub></h4>
 
-<p>Full e-commerce platform with integrated CRM for a Netherlands-based company — products, orders, customers, and sales pipeline in one system.</p>
+<p>Complete digital platform for Dinajpur featuring tourism, marketplace, emergency services, news, and business directory.</p>
 
-<p><code>NestJS</code> <code>Next.js</code> <code>TypeScript</code> <code>MongoDB</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h4>🤖 DML Work Agent</h4>
-
-<p>Autonomous LangGraph agent automating freelance workflows end-to-end via the Upwork API — LLM job ranking + profile optimization.</p>
-
-<p><code>LangGraph</code> <code>LangChain</code> <code>FastAPI</code> <code>REST APIs</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4>👁️ Retail People-Counting System</h4>
-
-<p>Real-time multi-person tracking with customer/employee separation via face & body embeddings and direction-aware in/out counting.</p>
-
-<p><code>YOLO</code> <code>BoT-SORT</code> <code>ReID</code> <code>PyTorch</code></p>
+<p><code>Flutter</code> <code>Firebase</code> <code>Firestore</code> <code>Cloud Functions</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>🔐 Face-Recognition Access Control</h4>
+<h4>🎓 RU Connect</h4>
 
-<p>CV-based access control across multiple CCTV feeds — reliable recognition under occlusion with fast vector identity retrieval.</p>
+<p>University community platform connecting students with resources, events, academic information, and social features.</p>
 
-<p><code>SCRFD</code> <code>ArcFace</code> <code>FAISS</code> <code>OpenCV</code></p>
+<p><code>Flutter</code> <code>Firebase</code> <code>Authentication</code> <code>Realtime DB</code></p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h4>🎓 Online Education Platform</h4>
+<h4>🚁 AeriFace-YOLO26 <sub><code>research</code></sub></h4>
 
-<p>Took a coaching center fully digital — role-based dashboards, quizzes, lecture playback, payments, CI/CD deployment.</p>
+<p>Advanced drone-based face detection system using custom YOLO architecture for aerial surveillance and monitoring.</p>
 
-<p><code>Laravel</code> <code>React</code> <code>Inertia.js</code> <code>MySQL</code></p>
+<p><code>YOLO</code> <code>PyTorch</code> <code>OpenCV</code> <code>Computer Vision</code></p>
 
 </td>
 <td width="50%" valign="top">
 
-<h4>🧠 Human Action Recognition <sub><code>thesis</code></sub></h4>
+<h4>🤖 Medical AI Assistance</h4>
 
-<p>Real-time classification & localization of 18 office activities using a YOLOv8 model on a custom-annotated dataset.</p>
+<p>AI-powered medical information assistant providing instant healthcare guidance using Google's Gemini AI integration.</p>
 
-<p><code>YOLOv8</code> <code>PyTorch</code> <code>OpenCV</code></p>
+<p><code>Flutter</code> <code>Gemini AI</code> <code>REST APIs</code> <code>Firebase</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>🕌 Nafs Guard</h4>
+
+<p>Islamic digital wellbeing application helping users maintain healthy digital habits aligned with Islamic principles.</p>
+
+<p><code>Flutter</code> <code>Local Storage</code> <code>Notifications</code> <code>Analytics</code></p>
+
+</td>
+<td width="50%" valign="top">
+
+<h4>📊 Attendance Management System</h4>
+
+<p>Firebase-powered attendance tracking with automated PDF report generation for educational institutions.</p>
+
+<p><code>Flutter</code> <code>Firebase</code> <code>PDF Export</code> <code>Cloud Functions</code></p>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h4>📰 News Watermark Editor</h4>
+
+<p>Professional-grade image editing tool with watermarking capabilities designed for news agencies and content creators.</p>
+
+<p><code>Flutter</code> <code>Image Processing</code> <code>Custom UI</code></p>
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
 </table>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
-
-## 🏆 &nbsp;Achievements
-
-- 🥉 &nbsp;**2nd Runner-Up · WebXtream Hackathon** — North South University · AI-powered social platform *"Crime-Desk"*
-- 🥉 &nbsp;**2nd Runner-Up · IEEE ICRPSET** — University of Rajshahi · deep-learning anti-theft system
-- 📊 &nbsp;**Top 18 · BitFest Datathon** — KUET
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="divider"/>
 
