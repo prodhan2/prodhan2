@@ -1,74 +1,198 @@
-<table>
-  <tr>
-    <td>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2563eb,100:06b6d4&height=220&section=header&text=Sujan%20Prodhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%26%20Engineering%20•%20University%20of%20Rajshahi&descSize=18&descAlignY=56"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=prodhan2)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-- 🔭 I’m currently working on **Admission Light**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Flutter+Developer;Firebase+%7C+TensorFlow+%7C+PyTorch;AI+Research+%7C+Computer+Vision;Building+Apps+That+Solve+Real+Problems;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning <code style="color : red">Adobe XD, Programming Languages</code>
+<br/>
 
-- 👨‍💻 All of my projects are available at [github.com/prodhan2](https://github.com/prodhan2)
+<a href="https://sujanpro.web.app">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
 
-- 📝 I regularly write articles on [prodhan2.blogspot.com](https://prodhan2.blogspot.com)
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **[fb.com/prodhan24](https://fb.com/prodhan24)**
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-- 📫 How to reach me: **ru.cse29@gmail.com**
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 
-- 📄 Know about my experiences: [github.com/prodhan2/resume](https://github.com/prodhan2/resume)
+</div>
 
-- ⚡ Fun fact: **I Think I am +Funny 😁**
+---
 
-</td>
-<td>
-  <img src="https://i.postimg.cc/rF5PjKrv/giphy.gif" width="200"/>
-</td>
-</tr>
-</table>
+# 👨‍💻 About Me
 
-<h2>MY Information</h2>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<table>
-  <tr>
-    <th>Name</th>
-    <th>University</th>
-    <th>Department</th>
-    <th>College</th>
-    <th>Phone Number</th>
-    <th>Social ID</th>
-    <th>Website</th>
-    <th>Email</th>
-  </tr>
-  <tr>
-    <td>Sujan Prodhan</td>
-    <td>Rajshahi University</td>
-    <td>CSE (29)</td>
-    <td>Dinajpur Govt. City College</td>
-    <td><a href="tel:+1234567890">Call Me</a></td>
-    <td><a href="https://facebook.com/prodhan24">facebook</a></td>
-    <td><a href="https://prodhan2.blogspot.com">Admission Light</a></td>
-    <td><a href="mailto:ru.cse29@gmail.com">Mail me</a></td>
-  </tr>
-</table>
+🎓 **Computer Science & Engineering** Student
 
-<p align="left">
-<a href="https://dev.to/sujan prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prodhan-sujan-2a0b70175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://fb.com/sujan prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://dribbble.com/sujan prodhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@admissionlight2497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="admission light" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/prodhan1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prodhan1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/work/roles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mr.microsoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mr.microsoft" height="30" width="40" /></a>
-<a href="https://leetcode.com/user9107c/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujan prodhan" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@ru.cse29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="sujan prodhan" height="30" width="40" /></a>
- <a href="https://www.spoj.com/sujan_prodhan/" target="blank"><img align="center" src="https://stx1.spoj.com/gfx/2015e.png" alt="sujan prodhan" height="80" width="90" /></a>
-</p>
+🏫 **University of Rajshahi**
 
+💙 Passionate about building useful software for people.
 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gridsome.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I enjoy developing modern mobile applications, AI systems, and computer vision solutions that solve real-world problems.
 
- ![prodhan2's Stats](https://github-readme-stats.vercel.app/api?username=prodhan2&theme=radical&show_icons=true&hide_border=false&count_private=true)![prodhan2's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prodhan2&theme=radical&show_icons=true&hide_border=false&layout=compact)
-![prodhan2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=prodhan2&theme=radical&hide_border=false)
+### Currently Working On
 
+- 📱 Beautiful Dinajpur
+- 🎓 RU Connect
+- 🕌 Nafs Guard
+- 🤖 Medical AI Assistance
+- 🚁 Drone Face Detection Research
+- 📚 Flutter & Firebase Projects
+- 🧠 Deep Learning & Computer Vision
+
+### Interests
+
+- Flutter
+- Firebase
+- TensorFlow
+- PyTorch
+- Computer Vision
+- Machine Learning
+- Artificial Intelligence
+- UI/UX Design
+- Clean Architecture
+
+<br clear="right"/>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Mobile Development
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase"/>
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,dart"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,linux"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌍 Beautiful Dinajpur | Tourism, Marketplace & Digital Service Platform |
+| 🎓 RU Connect | University Community Platform |
+| 🕌 Nafs Guard | Islamic Digital Wellbeing App |
+| 🤖 Medical AI Assistance | AI-based Medical Information Assistant |
+| 🚁 Drone Face Detection | Research on AeriFace-YOLO26 |
+| 📊 Attendance Management | Flutter + Firebase Attendance System |
+| 💰 Expense Tracker | Offline + Online Expense Manager |
+| 📰 News Watermark Editor | Professional News Card Generator |
+
+---
+
+# 📚 Research
+
+### AeriFace-YOLO26
+
+Drone-Based Face Detection using
+
+- YOLO
+- CSPDarkNet
+- C3K2
+- Feature Pyramid Network
+- Multi-scale Detection
+- Computer Vision
+
+---
+
+# 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- PyTorch
+- TensorFlow
+- MLOps
+- Advanced Flutter Architecture
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+🏅 Computer Science & Engineering Student
+
+📚 AI & Computer Vision Research
+
+📱 Published Android Applications
+
+💡 Flutter & Firebase Developer
+
+🤖 Deep Learning Enthusiast
+
+---
+
+# 📫 Contact
+
+🌐 Portfolio
+
+https://sujanpro.web.app
+
+📧 Email
+
+YOUR_EMAIL@gmail.com
+
+📱 Mobile
+
++8801902383808
+
+🏫 University
+
+University of Rajshahi
+
+---
+
+<div align="center">
+
+### 💙 "Building Technology That Makes People's Lives Better."
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:1a1a2e&height=120&section=footer"/>
